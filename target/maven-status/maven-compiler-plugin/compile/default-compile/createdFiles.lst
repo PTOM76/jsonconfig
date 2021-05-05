@@ -1,0 +1,6 @@
+ml\pkom\jsonconfig\configuration\ObjectDumper.class
+ml\pkom\jsonconfig\api\JsonConfiguration.class
+ml\pkom\jsonconfig\configuration\JsonToYaml.class
+ml\pkom\jsonconfig\configuration\YamlToJson.class
+ml\pkom\jsonconfig\JsonConfig.class
+ml\pkom\jsonconfig\configuration\JsonToYaml$1.class
